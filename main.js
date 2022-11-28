@@ -1,6 +1,6 @@
 window.addEventListener("load", () =>{ // Escuhamos cuandose carga el documento.
 
-    //Creamos dos constantes y guardamos los elementos que necesitamos.
+    //Cree dos constantes y guardamos los elementos que necesitamos.
     const display = document.querySelector(".calculator-display");
     const keypadButtons = document.getElementsByClassName("keypad-button");
 
